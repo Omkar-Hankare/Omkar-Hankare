@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omkar-Hankare
 - 👀 I’m interested in Finance and Web development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me: 2018ugcs029@nitjsr.ac.in || omkarhankare1268@gmail.com
 
 <!---
