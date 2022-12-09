@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Omkar D. Hankare
 - 👀 I’m interested in Finance and Web development
 - 🌱 I’m learning about Module Federation 
-- 📫 How to reach me: 2018ugcs029@nitjsr.ac.in || omkarhankare1268@gmail.com
+- 📫 How to reach me: 2018ugcs029@nitjsr.ac.in
 
 <!---
 Omkar-Hankare/Omkar-Hankare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
