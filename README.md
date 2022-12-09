@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Omkar-Hankare
+- 👋 Hi, My name is Omkar D. Hankare
 - 👀 I’m interested in Finance and Web development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m learning about Module Federation 
 - 📫 How to reach me: 2018ugcs029@nitjsr.ac.in || omkarhankare1268@gmail.com
 
 <!---
