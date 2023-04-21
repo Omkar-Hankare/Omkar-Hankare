@@ -1,6 +1,5 @@
 - 👋 Hi, My name is Omkar D. Hankare
 - 👀 I’m interested in Finance and Web development
-- 🌱 I’m learning about Module Federation 
 - 📫 How to reach me: 2018ugcs029@nitjsr.ac.in
 
 <!---
